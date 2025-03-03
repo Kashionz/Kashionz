@@ -1,2 +1,2 @@
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Kashionz&theme=react" /> </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashionz&theme=react" /> </div
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kashionz&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Kashionz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashionz&layout=compact&theme=react&hide_border=true" /></a> |
+| ------------- | ------------- |
